@@ -1,3 +1,5 @@
-# GuessNoOfFilesInDirectory
-Time:14:30 IST  Date :05/11/2020                                                                                                                                                      
-Number of lines contained in guessinggame.sh: 33
+# Guessinggame
+Date: 2020-12-21, Time: 15:37:57
+
+Lines of code in guessinggame.sh: 
+28
